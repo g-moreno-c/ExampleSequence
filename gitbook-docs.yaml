@@ -1,7 +1,6 @@
-
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: documentacion DAWE
+  title: documentacion Carlos
   structure:
     - type: space
       key: space-1
@@ -10,4 +9,3 @@ site:
       default: true
       content:
         directory: ./
-
